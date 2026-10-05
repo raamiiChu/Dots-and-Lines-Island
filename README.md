@@ -19,7 +19,7 @@ Could choose one of them
 ### Flowchart
 Could choose one of them
 - [GitHub](https://github.com/raamiiChu/Dots-and-Lines-Island/blob/main/Documents/Flowchart%20of%20Code.pdf)
-- [Miro](https://miro.com/app/board/uXjVMBBXf8c=/?share_link_id=906571491240)
+- [Miro (Preferred)](https://miro.com/app/board/uXjVMBBXf8c=/?share_link_id=906571491240)
 
 # Demo (YouTube) 
 - [Demo](https://youtu.be/OuxN2pRR5UE)
