@@ -4,7 +4,7 @@
   This game was inspired by "[The Witness](https://store.steampowered.com/app/210970/The_Witness/)" & "[The Looker](https://store.steampowered.com/app/1985690/The_Looker/)"
 
 # Demo (YouTube) 
-- [Demo](https://youtu.be/OuxN2pRR5UE)
+https://youtu.be/OuxN2pRR5UE
 
 # Tools
 Unreal Engine 4
